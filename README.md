@@ -8,7 +8,7 @@ Elements and Tags
 
 <h1>heading</h1>  -  Element
 
-Each element has opening and closing Tag <h1> and </h1> respectively in the above example
+Each element has opening and closing Tag 
 Some tags have attributes
 
 There different types of tags in HTML
