@@ -13,7 +13,10 @@ Some tags have attributes
 
 There different types of tags in HTML
 
-- Heading
+
+
+- <h1>Heading</h1>
+
  <h1>first</h1>
  <h2>second</h2>
  .
@@ -22,19 +25,26 @@ There different types of tags in HTML
  .
  <h6>last</h6>
 
- -Link
+
+
+
+ -<h1>Link</h1>
  <a>Subscribe</a>
  anchor tag has an attribute called href which is used to specify the link to which it redirects
  <a href="www.google.com">Subscribe</a>
 
- -Images
+
+
+ -<h1>Images</h1>
  It has no closing tag
  It has two attributes src and alt
  src is used to give reference to where the image is
  Alt is used to give alternative text for the image if it doesnot get loaded
  <img src="minions" alt="minions">
 
- -Lists
+
+
+ -<h1>Lists</h1>
  There are two types of them ordered list and unordered list
  <ol>
   <li>Hello</li>
